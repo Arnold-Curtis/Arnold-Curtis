@@ -1,3 +1,11 @@
+# Hi there, I'm Arnold 👋
+
+I'm a **Full Stack Developer** and **Aspiring Solutions Architect**
+
+I specialize in architecting scalable web systems and building high-performance utilities. My focus is on writing clean, efficient code that bridges the gap between complex backend logic and practical user needs—whether that's enterprise software or engineering tools.
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on: A custom "Transparency Mode" audio application for Windows in C.<br><br>👯 I’m looking to collaborate on: Full-stack web development projects and freelance software engineering tasks.<br><br>🤝 I’m looking for help with: Finding remote software engineering roles and scaling my developer-focused X (Twitter) community.<br><br>🌱 🌱 I’m currently learning: Advanced Systems Architecture, Design Patterns and Neural Networks.
 
